@@ -1,1 +1,1 @@
-web: python src/main.py
+web: python langflow run --host 0.0.0.0 --port 8501
