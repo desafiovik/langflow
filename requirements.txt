@@ -27,7 +27,6 @@ celery==5.3.6
 redis==5.0.1
 flower==2.0.0
 metaphor-python==0.1.11
-pywin32==306
 langfuse==2.33.0
 metal-sdk==2.5.0
 markupsafe==2.1.3
